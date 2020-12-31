@@ -10,6 +10,7 @@ Seam allowances are 1/4" except where indicated otherwise.
 ![Cutting layout](images/pink_overview.png)
 1. Cut lower panel (A) and lower sides (F, G) from liner fabric.
 1. Cut two copies of the inner side pocket (L, M) from pocket fabric.
+![Inner side pocket pattern](images/inner_pocket.svg)
 
 ## Mark
 
