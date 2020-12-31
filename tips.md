@@ -6,3 +6,4 @@
 1. Always backstitch at beginning and ends of seams to lock them.
 1. New seams will be illustrated with dashed lines.
 1. Grosgrain binding [tutorial video](https://www.youtube.com/watch?v=2OiW_xMY2Pc)
+1. Boxed corner [tutorial video](https://www.youtube.com/watch?v=THtU74h0IZY)

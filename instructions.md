@@ -13,7 +13,7 @@
 ![Hardware positions on lower panel](images/base_panel_webbing.svg)
 
 1. Mark location of webbing (horizontal bars) on outside of lower panel (A).
-    * Mark as horizontal lines at 6.75" and 13.5" inches from the base. They should be symmetrical.
+    * Mark as horizontal lines at 6.75" and 13.5" inches from the base. They should be symmetrical vertically.
 1. Mark locations of bar tacks (vertical bars) on outside of lower panel (A).
     * The first and last bar tacks are 1.25" from the edge. The spacing between bar tacks is 1.5".
     * Mark as a vertical line that extends above and below the webbing line, so that you can see when the webbing is in place.
@@ -22,9 +22,21 @@
 
 ## Webbing
 
-1. Cut 3/4" webbing for bottom, leaving some overlap on each side.
+1. Cut two 15.5" long strips of 3/4" webbing.
 1. By hand or by machine, baste the webbing lengthwise onto the outside of the base. This will keep it aligned while you work on the bar tacks.
 1. Bar tack at the marked locations, then trim all threads and remove the lengthwise basting stitches.
+    * To make a bar tack, set your machine to a zigzag switch and set the stitch length to a very small setting.
+    * Practice on scrap to make sure your settings are correct.
+    * You may need to turn down your thread tension or presser foot pressure.
+
+## Buckle
+
+1. Find the fixed (non-adjustable) side of your buckle. If your buckle is adjustable on both sides, just pick a side.
+1. Cut a 4" long piece of 1" webbing. Singe the ends with a lighter to seal them.
+1. Feed the strap through your webbing and double it back so that the ends match.
+1. Place the strap ends on the X you marked on the outside of the lower front. The strap ends should be toward the bottom, and the buckle should be hanging over the edge of the fabric.
+![Buckle placement](images/buckle_installation_1.svg)
+1. Stitch in a square, then add two diagonals to form the X. Remember to backstitch at the beginning and end.
 
 ## Inner pocket prep
 

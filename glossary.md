@@ -6,3 +6,4 @@
 - Lower: The boxy, non-rolling, lined section of the bag.
 - Liner: The lining fabric inside the lower. 
 - [Grosgrain](https://en.wikipedia.org/wiki/Grosgrain): A stiff cloth ribbon used to cover and strengthen seams.
+- [Bar tack](https://en.wikipedia.org/wiki/Bar_tack): A series of stitches used to reinforce a high-wear point. Here, a line of closely spaced zigag stitches.
