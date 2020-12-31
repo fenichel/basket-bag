@@ -20,6 +20,16 @@
 1. Mark location of buckle attachment (X in a square) on outside of lower panel (A).
     * The buckle is attached with a 1" square of stitching, placed 0.5" from the upper edge and 6.75" from the right or left edge (centered).
 
+## Webbing
+
+1. Cut 3/4" webbing for bottom, leaving some overlap on each side.
+1. By hand or by machine, baste the webbing lengthwise onto the outside of the base. This will keep it aligned while you work on the bar tacks.
+1. Bar tack at the marked locations, then trim all threads and remove the lengthwise basting stitches.
+
+## Inner pocket prep
+
+1. Sew 1/2" grosgrain onto top (long) edges of inner side pockets (L, M).
+
 ## Zipper pocket prep
 
 The construction of the rear zipper pocket is similar to [this video](https://www.youtube.com/watch?v=LYWDujbNWpo). At the end you should have a panel the same size as the lower rear of the bag, with a zipper across it.
@@ -32,25 +42,22 @@ The construction of the rear zipper pocket is similar to [this video](https://ww
     * The upper panel will overlap the left and right panels.
     * Stitch as close as possible for the first stitch, then stitch a parallel line another 1/4" away from the zipper for reinforcement.
 ![Zipper construction: upper](images/zipper_construction_2.svg)
-1. Sew pocket lower (H) to zipper.
+1. Sew pocket lower (H) to zipper in the same way.
 ![Zipper construction: lower](images/zipper_construction_3.svg)
 1. There will be extra material sticking out on each side (J and K). Trim sides to straight lines.
 ![Zipper construction: after trimming](images/zipper_construction_4.svg)
 
-## Inner pocket prep
-1. Sew 1/2" grosgrain onto top edges of inner side pockets (L, M).
+## Zipper pocket installation
 
-## Webbing
-
-1. Cut 3/4" webbing for bottom, leaving some overlap on each side.
-1. By hand or by machine, baste the webbing lengthwise onto the outside of the base. This will keep it aligned while you work on the bar tacks.
-1. Bar tack at the marked locations, then trim all threads and remove the lengthwise basting stitches.
+1. Place zipper pocket panel on the lower panel, right sides together. Stich with a 1/4" seam allowance.
+![Zipper pocket placement](images/attach_zipper_pocket.svg)
+1. Fold zipper pocket panel at seam to match lower back. Topstitch.
+![Zipper pocket topstitching](images/attach_zipper_pocket_2.svg)
 
 ## Liner
 
 1. Sew liner sides to liner main panel.
 1. Reinforce seams on  liner with 1/2" grosgrain.
-1. Fold over 1/4" seam allowance for pocket, then attach pocket bottom to lower back. Topstitch. Fold pocket up to match lower back.
 
 ## Lower outer
 1. Sew lower sides to lower main panel.
