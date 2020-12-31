@@ -13,24 +13,24 @@
 ![Hardware positions on lower panel](images/base_panel_webbing.svg)
 
 1. Mark location of webbing (horizontal bars) on outside of lower panel (A).
-- Mark as horizontal lines at 6.75" and 13.5" inches from the base. They should be symmetrical.
+    * Mark as horizontal lines at 6.75" and 13.5" inches from the base. They should be symmetrical.
 1. Mark locations of bar tacks (vertical bars) on outside of lower panel (A).
-- The first and last bar tacks are 1.25" from the edge. The spacing between bar tacks is 1.5".
-- Mark as a vertical line that extends above and below the webbing line, so that you can see when the webbing is in place.
+    * The first and last bar tacks are 1.25" from the edge. The spacing between bar tacks is 1.5".
+    * Mark as a vertical line that extends above and below the webbing line, so that you can see when the webbing is in place.
 1. Mark location of buckle attachment (X in a square) on outside of lower panel (A).
-- The buckle is attached with a 1" square of stitching, placed 0.5" from the upper edge and 6.75" from the right or left edge (centered).
+    * The buckle is attached with a 1" square of stitching, placed 0.5" from the upper edge and 6.75" from the right or left edge (centered).
 
 ## Zipper pocket prep
 
 The construction of the rear zipper pocket is similar to [this video](https://www.youtube.com/watch?v=LYWDujbNWpo). At the end you should have a panel the same size as the lower rear of the bag, with a zipper across it.
 
 1. Sew left and right pocket sides (J and K) to zipper: 
-- Fold and press or tape the 1/4" seam allowance under, then stitch on top of the left and right ends of the zipper.
+    * Fold and press or tape the 1/4" seam allowance under, then stitch on top of the left and right ends of the zipper.
 ![Zipper construction: left and right sides](images/zipper_construction_1.svg)
 1. Sew pocket upper (I) to zipper.
-- Fold and press or tape the 1/2" seam allowance under, then stitch in place along the top edge of the zipper. 
-- The upper panel will overlap the left and right panels.
-- Stitch as close as possible for the first stitch, then stitch a parallel line another 1/4" away from the zipper for reinforcement.
+    * Fold and press or tape the 1/2" seam allowance under, then stitch in place along the top edge of the zipper. 
+    * The upper panel will overlap the left and right panels.
+    * Stitch as close as possible for the first stitch, then stitch a parallel line another 1/4" away from the zipper for reinforcement.
 ![Zipper construction: upper](images/zipper_construction_2.svg)
 1. Sew pocket lower (H) to zipper.
 ![Zipper construction: lower](images/zipper_construction_3.svg)
