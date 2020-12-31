@@ -1,8 +1,4 @@
-Back: toward the rider.
 
-Front: away from the rider--forward in the direction of travel.
-
-Seam allowances are 1/4" except where indicated otherwise.
 
 ## Cut
 
@@ -20,10 +16,20 @@ Seam allowances are 1/4" except where indicated otherwise.
 
 ## Pocket prep
 
-1. Sew left and right pocket sides (J and K) to zipper.
+The construction of the rear zipper pocket is similar to [this video](https://www.youtube.com/watch?v=LYWDujbNWpo). At the end you should have a panel the same size as the lower rear of the bag, with a zipper across it.
+
+1. Sew left and right pocket sides (J and K) to zipper: 
+- Fold and press or tape the 1/4" seam allowance under, then stitch on top of the left and right ends of the zipper.
+![Zipper construction: left and right sides](images/zipper_construction_1.svg)
 1. Sew pocket upper (I) to zipper.
+- Fold and press or tape the 1/2" seam allowance under, then stitch in place along the top edge of the zipper. 
+- The upper panel will overlap the left and right panels.
+- Stitch as close as possible for the first stitch, then stitch a parallel line another 1/4" away from the zipper for reinforcement.
+![Zipper construction: upper](images/zipper_construction_2.svg)
 1. Sew pocket lower (H) to zipper.
-1. Trim sides to straight lines.
+![Zipper construction: lower](images/zipper_construction_3.svg)
+1. There will be extra material sticking out on each side (J and K). Trim sides to straight lines.
+![Zipper construction: after trimming](images/zipper_construction_4.svg)
 1. Sew 1/2" grosgrain onto top edges of inner side pockets (L, M).
 
 ## Webbing
