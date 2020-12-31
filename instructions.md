@@ -35,8 +35,9 @@
 1. Cut a 4" long piece of 1" webbing. Singe the ends with a lighter to seal them.
 1. Feed the strap through your webbing and double it back so that the ends match.
 1. Place the strap ends on the X you marked on the outside of the lower front. The strap ends should be toward the bottom, and the buckle should be hanging over the edge of the fabric.
-![Buckle placement](images/buckle_installation_1.svg)
 1. Stitch in a square, then add two diagonals to form the X. Remember to backstitch at the beginning and end.
+
+![Buckle placement](images/buckle_installation_1.svg)
 
 ## Inner pocket prep
 
@@ -61,20 +62,29 @@ The construction of the rear zipper pocket is similar to [this video](https://ww
 
 ## Zipper pocket installation
 
-1. Place zipper pocket panel on the lower panel, right sides together. Stich with a 1/4" seam allowance.
+1. Place zipper pocket panel on the lower panel, right sides together. Stitch with a 1/4" seam allowance. In this image the darker rectangle is the wrong side of the zipper pocket panel.
 ![Zipper pocket placement](images/attach_zipper_pocket.svg)
 1. Fold zipper pocket panel at seam to match lower back. Topstitch.
 ![Zipper pocket topstitching](images/attach_zipper_pocket_2.svg)
 
+## Lower outer
+1. Lay out the lower main panel (A), right side up. Place the lower left side panel (F) on top, right side down. Align the top right corners.
+![Alignment of lower side panel on base](images/align_lower_side_panel.svg)
+1. Stitch along the right edge with a 1/4" seam allowance, stopping 1/4" from the edge of panel F.
+1. Fold panel A so that the two dotted lines match and stitch on the dotted line, forming a corner.
+    * Check out this boxed corner [tutorial video](https://www.youtube.com/watch?v=THtU74h0IZY) for a visualization.
+![Alignment of lower side panel on base](images/attach_lower_side_panel.svg)
+1. Repeat the fold to create the next corner, attaching panel A to the third side of panel F. Panel A should now form a U shape with two sharp corners.
+1. Sew lower left side panel (F) to lower main panel (A) with right sides together.
+    * Boxed corner [tutorial video](https://www.youtube.com/watch?v=THtU74h0IZY)
+1. Press seams toward sides and topstitch.
+1. Repeat previous two steps for lower right panel (G).
+1. Optional: If you have foam or another stiffener for the lower, insert and attach it.
+
 ## Liner
 
-1. Sew liner sides to liner main panel.
+1. Sew liner sides to liner main panel, following the steps you used for the outer.
 1. Reinforce seams on  liner with 1/2" grosgrain.
-
-## Lower outer
-1. Sew lower sides to lower main panel.
-1. Press seams toward sides and topstitch.
-1. Optional: If you have foam or another stiffener for the lower, insert and attach it.
 
 ## Lower
 1. Turn liner and lower right side out. Align the top edges and stitch together.
@@ -97,6 +107,6 @@ The construction of the rear zipper pocket is similar to [this video](https://ww
 
 ## Finishing
 
-1. Sew 1/2" grosgrain onto the seam.
+1. Sew 1/2" grosgrain onto the upper-to-lower seam.
 1. Optional: Press the upper-to-lower seam toward the base and topstitch.
-1. Press folds into the top sides.
+1. Press folds into the top sides with an iron (sythetic setting) or books (pile them on and leave it for a while).
