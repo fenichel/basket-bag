@@ -4,7 +4,7 @@ Front: away from the rider--forward in the direction of travel.
 
 Seam allowances are 1/4" except where indicated otherwise.
 
-[Cutting layout](images/pink_overview.png)
+![Cutting layout](images/pink_overview.png)
 
 1. Cut all parts from the main fabric.
 1. Cut lower main and sides from liner fabric.
