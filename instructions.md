@@ -5,7 +5,7 @@
 1. Cut all parts (A through K) from the main fabric. Here is a cutting layout for use on 1 yard of 60" fabric.
 ![Cutting layout](images/pink_overview.png)
 1. Cut lower panel (A) and lower sides (F, G) from liner fabric.
-1. Cut two copies of the inner side pocket (L, M) from pocket fabric.
+1. Cut two copies of the inner side pocket (L, M) from inner pocket fabric.
 ![Inner side pocket pattern](images/inner_pocket.svg)
 
 ## Mark
@@ -42,6 +42,9 @@
 ## Inner pocket prep
 
 1. Sew 1/2" grosgrain onto top (long) edges of inner side pockets (L, M).
+1. Place one inner pocket panel on top of one liner side panel, with both right sides facing you. Align them on the lower edge.
+1. Stitch around the sides and bottom of the pocket with a 1/4" seam allowance.
+![Inner pocket to liner alignment and stitch lines](images/attach_inner_pocket.svg)
 
 ## Zipper pocket prep
 
@@ -73,13 +76,15 @@ The construction of the rear zipper pocket is similar to [this video](https://ww
 1. Stitch along the right edge with a 1/4" seam allowance, stopping 1/4" from the edge of panel F.
 1. Fold panel A so that the two dotted lines match and stitch on the dotted line, forming a corner.
     * Check out this boxed corner [tutorial video](https://www.youtube.com/watch?v=THtU74h0IZY) for a visualization.
-![Alignment of lower side panel on base](images/attach_lower_side_panel.svg)
-1. Repeat the fold to create the next corner, attaching panel A to the third side of panel F. Panel A should now form a U shape with two sharp corners.
-1. Sew lower left side panel (F) to lower main panel (A) with right sides together.
-    * Boxed corner [tutorial video](https://www.youtube.com/watch?v=THtU74h0IZY)
-1. Press seams toward sides and topstitch.
-1. Repeat previous two steps for lower right panel (G).
-1. Optional: If you have foam or another stiffener for the lower, insert and attach it.
+![Folding base to match bottom edge of lower side panel](images/attach_lower_side_panel.svg)
+    * The result will look like this:
+![Finished fold and stitch](images/attach_lower_side_3d.svg)
+1. Repeat the fold to create the next corner, attaching panel A to the third side of panel F. Panel A should now form a U shape with two sharp corners, like this:
+![Base panel fully sewn to one side panel](images/attach_lower_side_3d_completed.svg)
+1. Press seams toward side panels and topstitch.
+    * Note: Pressing the seams in the opposite directions for the lower and upper portions of the bag will reduce the bulk when sewing upper and lower together.
+1. Repeat previous four steps for to attach lower right panel (G) to lower main panel (A).
+1. Optional: If you have foam or another stiffener for the lower, attach it.
 
 ## Liner
 
@@ -87,7 +92,8 @@ The construction of the rear zipper pocket is similar to [this video](https://ww
 1. Reinforce seams on  liner with 1/2" grosgrain.
 
 ## Lower
-1. Turn liner and lower right side out. Align the top edges and stitch together.
+1. Turn liner and lower right side out. Place the liner into the lower, align the top edges and stitch together.
+    * All of your raw edges should now be hidden, except for the top edge.
 
 ## Upper
 
