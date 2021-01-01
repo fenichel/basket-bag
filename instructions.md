@@ -1,4 +1,14 @@
+# Instructions
 
+## Glossary
+- Front: The side of the bag away from the handlebars.
+- Rear/back: The side of the bag toward the handlebars.
+- Upper: The rolltop section of the bag.
+- Lower: The boxy, non-rolling, lined section of the bag.
+- Liner: The lining fabric inside the lower. 
+- [Grosgrain](https://en.wikipedia.org/wiki/Grosgrain): A stiff cloth ribbon used to cover and strengthen seams.
+- [Bar tack](https://en.wikipedia.org/wiki/Bar_tack): A series of stitches used to reinforce a high-wear point. Here, a line of closely spaced zigag stitches.
+- [Edgestitch](https://sewguide.com/edge-stitch/): A row of continuous stitches on the top or right side of the bag as a decorative feature and to lock seams in place. For this project, topstitch
 
 ## Cut
 
@@ -67,8 +77,8 @@ The construction of the rear zipper pocket is similar to [this video](https://ww
 
 1. Place zipper pocket panel on the lower panel, right sides together. Stitch with a 1/4" seam allowance. In this image the darker rectangle is the wrong side of the zipper pocket panel.
 ![Zipper pocket placement](images/attach_zipper_pocket.svg)
-1. Fold zipper pocket panel at seam to match lower back. Topstitch.
-![Zipper pocket topstitching](images/attach_zipper_pocket_2.svg)
+1. Fold zipper pocket panel at seam to match lower back. Edgestitch.
+![Zipper pocket edgestitching](images/attach_zipper_pocket_2.svg)
 
 ## Lower outer
 1. Lay out the lower main panel (A), right side up. Place the lower left side panel (F) on top, right side down. Align the top right corners.
@@ -81,7 +91,7 @@ The construction of the rear zipper pocket is similar to [this video](https://ww
 ![Finished fold and stitch](images/attach_lower_side_3d.svg)
 1. Repeat the fold to create the next corner, attaching panel A to the third side of panel F. Panel A should now form a U shape with two sharp corners, like this:
 ![Base panel fully sewn to one side panel](images/attach_lower_side_3d_completed.svg)
-1. Press seams toward side panels and topstitch.
+1. Press seams toward side panels and edgestitch.
     * Note: Pressing the seams in the opposite directions for the lower and upper portions of the bag will reduce the bulk when sewing upper and lower together.
 1. Repeat previous four steps for to attach lower right panel (G) to lower main panel (A).
 1. Optional: If you have foam or another stiffener for the lower, attach it.
@@ -103,7 +113,7 @@ The construction of the rear zipper pocket is similar to [this video](https://ww
 1. Repeat to attach the upper front panel (C) and upper left side panel (E). The result will be a tube of fabric with four vertical seams.
 1. Sew 1/2" grosgrain onto just-finished seams.
     * Optional: Use an accent color for the grosgrain, which will be visible in the finished product.
-1. Press the seams toward the front and rear panels and topstitch.
+1. Press the seams toward the front and rear panels and edgestitch.
     * Note that this is the opposite of the direction used on the lower. This is to reduce bulk when sewing them together.
 1. Apply grosgrain in an accent color along the top edge. Use either 1/2" or 3/4".
 
@@ -127,6 +137,6 @@ The construction of the rear zipper pocket is similar to [this video](https://ww
 ## Finishing
 
 1. Sew 1/2" grosgrain onto the upper-to-lower seam.
-1. Optional: Press the upper-to-lower seam toward the base and topstitch.
+1. Optional: Press the upper-to-lower seam toward the base and edgestitch.
 1. Thread the adjustable side of the buckle onto the strap and trim to length.
 1. Press folds into the top sides with an iron (sythetic setting) or books (pile them on and leave it for a while) to make the roll top fold in at the sides like a sandwich bag.
