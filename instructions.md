@@ -119,7 +119,8 @@ The construction of the rear zipper pocket is similar to [this video](https://ww
 
 1. Turn upper inside out and place it around the lower, right sides together. Align the lower edge of the bag's upper and the upper edge of the bag's lower.
 1. Cut a 15" length of 1" wide webbing for the adjustable side of the buckle strap.
-1. Pin or tape the strap between the upper and lower fabric, at the center back. Leave a small tail sticking through the seam. You will trim this later.
+1. Pin or tape the strap between the upper and lower fabric, at the center back.
+![Strap sandwiched between layers of fabric](images/insert_strap.svg)
 1. Sew upper to lower with a 1/4" seam allowance.
 1. Reinforce the attachment for the buckle strap by stitching it again within the seam allowance, then trim the buckle strap.
 
