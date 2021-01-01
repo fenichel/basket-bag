@@ -91,28 +91,41 @@ The construction of the rear zipper pocket is similar to [this video](https://ww
 1. Sew liner sides to liner main panel, following the steps you used for the outer.
 1. Reinforce seams on  liner with 1/2" grosgrain.
 
-## Lower
-1. Turn liner and lower right side out. Place the liner into the lower, align the top edges and stitch together.
+## Lower + liner
+1. Turn lower right side out. Place the liner into the lower with the wrong sides together, align the top edges and stitch together.
     * All of your raw edges should now be hidden, except for the top edge.
-
+    
 ## Upper
 
-1. Stitch uppers together with right sides together.
+1. Place upper right side panel (D) and upper rear panel (B) with right sides together. Align on the right edge, with the top of the bag away from you.
+![Upper right and rear panel alignment](images/attach_upper_right_rear.svg)
+1. Stitch along right edge with a 1/4" seam allowance.
+1. Repeat to attach the upper front panel (C) and upper left side panel (E). The result will be a tube of fabric with four vertical seams.
 1. Sew 1/2" grosgrain onto just-finished seams.
-1. Topstitch the seams, pressing toward long sides (front and back). Note that this is the opposite of the direction used on the lower. This is to reduce bulk when sewing them together.
+    * Optional: Use an accent color for the grosgrain, which will be visible in the finished product.
+1. Press the seams toward the front and rear panels and topstitch.
+    * Note that this is the opposite of the direction used on the lower. This is to reduce bulk when sewing them together.
 1. Apply grosgrain in an accent color along the top edge. Use either 1/2" or 3/4".
 
 ## Velcro and pull tabs
 
-1. Mark the centers of the front and back top edges of the upper.
-1. Stitch 3" of velcro to the inside of the top edge, just below the grosgrain, centered at the marked location. Optional: Fold a 3" piece of grosgrain in half and sew in under the center of each piece of velcro, sticking up, for use as a pull tab.
+1. On the wrong sides, mark the centers of the front and back top edges of the upper.
+1. Fold a 3" piece of grosgrain in half and pin or tape it to the upper at the center point to form a pull tab. The loose ends will be sewn in under the velcro.
+1. Stitch 3" of velcro to the inside of the top edge, just below the grosgrain, centered at the marked location. The left edge will be 5.5" from the left side of the panel.
+    * Stitch the velcro either with multiple lines of stitches or a box X pattern.
+![Positioning information for velcro and pull tab](images/attach_upper_velcro.svg)
 
 ## Upper + lower
-1. Sew upper to lower, inserting the adjustable buckle's strap into the seam at the center back.
-1. Reinforce the attachment for the buckle strap.
+
+1. Turn upper inside out and place it around the lower, right sides together. Align the lower edge of the bag's upper and the upper edge of the bag's lower.
+1. Cut a 15" length of 1" wide webbing for the adjustable side of the buckle strap.
+1. Pin or tape the strap between the upper and lower fabric, at the center back. Leave a small tail sticking through the seam. You will trim this later.
+1. Sew upper to lower with a 1/4" seam allowance.
+1. Reinforce the attachment for the buckle strap by stitching it again within the seam allowance, then trim the buckle strap.
 
 ## Finishing
 
 1. Sew 1/2" grosgrain onto the upper-to-lower seam.
 1. Optional: Press the upper-to-lower seam toward the base and topstitch.
-1. Press folds into the top sides with an iron (sythetic setting) or books (pile them on and leave it for a while).
+1. Thread the adjustable side of the buckle onto the strap and trim to length.
+1. Press folds into the top sides with an iron (sythetic setting) or books (pile them on and leave it for a while) to make the roll top fold in at the sides like a sandwich bag.
