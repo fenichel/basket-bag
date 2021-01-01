@@ -1,6 +1,6 @@
 # Materials
 
-[back](README.md)
+[<-- back](README.md)
 
 Where possible I'm providing links to [Seattle Fabrics](https://www.seattlefabrics.com/), where I bought all of my materials. Other good online suppliers include [Rockywoods Fabrics](https://www.rockywoods.com/), [Quest Outfitters](https://www.questoutfitters.com/), [Ripstop by the Roll](https://ripstopbytheroll.com/), and [Outdoor Wilderness Fabrics](https://www.owfinc.com/).
 

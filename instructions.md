@@ -1,5 +1,7 @@
 # Instructions
 
+[<-- back](README.md)
+
 ## Glossary
 - Front: The side of the bag away from the handlebars.
 - Rear/back: The side of the bag toward the handlebars.
